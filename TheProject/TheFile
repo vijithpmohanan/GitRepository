@@ -1,3 +1,7 @@
 From Second
 From Third
+<<<<<<< HEAD
 Third second
+=======
+Second Second 
+>>>>>>> e19ec65d654a727d3d29f4a53495cf13ce3a6dfe
