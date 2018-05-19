@@ -1,5 +1,7 @@
+Updated from first
 <<<<<<< HEAD
-From Second
+Second update from first
 =======
-From Third
->>>>>>> second commit
+Updated from second
+
+>>>>>>> 16ac2c897d7dfae218cad602e235cffdf426393c
